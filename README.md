@@ -1,10 +1,10 @@
-<h1 align="center"> ✨ Laísa Ferreira ✨ </h1>  
+<h1 align="center"> ✨ Laísa Silva ✨ </h1>  
 
 <h3 align="center"> 💫 Desenvolvedora Full Stack | Back-End | Front-End | Dados 💫 </h3> 
 
 ---
 
-<p>Olá! Me chamo é Laísa Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas na Unigranrio. Atualmente, estou me aprofundando em desenvolvimento Full Stack Java e estou sempre em busca de novos desafios e aprendizados. </p>
+<p>Olá! Me chamo é Laísa Silva e sou estudante de Análise e Desenvolvimento de Sistemas na Unigranrio. Atualmente, estou me aprofundando em desenvolvimento Full Stack Java e estou sempre em busca de novos desafios e aprendizados. </p>
 
 <p>📍 Rio de Janeiro, Brasil </p>
 <p>🎓 Estudante de ADS | Unigranrio </p>
