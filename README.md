@@ -9,8 +9,7 @@
 <p>📍 Rio de Janeiro, Brasil </p>
 <p>🎓 Estudante de ADS | Unigranrio </p>
 <p>🌍 Idioma: Inglês (intermediário) </p>
-<p>✔ Bootcamp Alura One (Frontend)</p>
-<p>✔ Bootcamp Generation Brasil (Full Stack)</p> 
+<p>🏅 Certificação AWS Certified Cloud Practitioner </p>    
 
 ---
 
